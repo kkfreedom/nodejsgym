@@ -1,0 +1,12 @@
+{
+  "name": "liondateformat",
+  "version": "1.0.0",
+  "description": "This is a persnal date format util gym demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["date formater", "personal nodejs gym"],
+  "author": "Leo.Feng",
+  "license": "ISC"
+}
